@@ -1,4 +1,4 @@
-# AI-10X demos
+# AI-10X deimos
 Demos for [AI-10X](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-100) training and certification. It can be used by a trainer or by attendees as homework. The goal is to understand how to call and use REST API for Cognitive Services.
 
 # Before you start
